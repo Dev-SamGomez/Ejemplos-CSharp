@@ -41,6 +41,7 @@ private void LoadGridWithList()
     }
 }
 
+//Cargar un DatagridView desde un archivo de Excel
     private void LoadGridByExcel()
     {
         try
