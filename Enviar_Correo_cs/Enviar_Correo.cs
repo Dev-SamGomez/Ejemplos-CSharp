@@ -5,7 +5,7 @@ private void EnviaCorreo()
         string FromTO = "mailTo@example.com"; // Marcamos el correo destino
         string SendBy = "no-reply@example.com"; // Marcamos el correo que envia
                                                 // Cuerpo del correo
-        string SendMail = "Hello, this is an email sent from a desktop program in visual basic language.";
+        string SendMail = "Hello, this is an email sent from a desktop program in C# language.";
 
         // Declaramos la clase MailMessage
         System.Net.Mail.MailMessage _Message = new System.Net.Mail.MailMessage();
